@@ -17,8 +17,13 @@
 
 /* #Site Styles
 ================================================== */
+date-container {
+  color: #949494;
+}
 
 body {
+  background-image:url('http://subtlepatterns.com/patterns/dark_Tire.png'); 
+  background-repeat:repeat-y;
   color: #000000;
   font: 15px/22px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -65,7 +70,7 @@ a:hover {
 }
 
 a, a:visited { 
-  color: #0000a9; 
+  color: #0881B3; 
   text-decoration: non; 
   outline: 0; 
 }
@@ -79,12 +84,12 @@ a, a:visited {
 
 .title a {
   font-size: 42pt;
-  color: #DC143C;
+  color: #F6291D;
   text-decoration: none;
 }
 
 .title a:hover {
-  color: black;
+  color: #F6291D;
   text-decoration: underline;
 }
 
@@ -134,7 +139,7 @@ hr.front {
   height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  width: 50%;
+  width: 75;
   position: relative;
   margin: 15px auto;
 }
@@ -150,7 +155,7 @@ a.glyph-permalink {
 }
 
 a.glyph-permalink:hover {
-  color: #aa0000;
+  color: #F6291D;
 }
 
 code {

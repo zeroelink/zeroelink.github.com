@@ -35,6 +35,9 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
 	body {
+		background-image:url('http://subtlepatterns.com/patterns/dark_Tire.png'); 
+        background-repeat:repeat-y;
+        background-repeat:repeat-x;
 		line-height: 1; }
 	ol, ul {
 		list-style: none; }
@@ -51,8 +54,10 @@
 
 /* #Basic Styles
 ================================================== */
-	body {
-		background: #fff;
+	body {	    
+	    background-image:url('http://subtlepatterns.com/patterns/dark_Tire.png'); 
+        background-repeat:repeat-y;
+		/*background: #fff;*/
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -340,4 +345,11 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-
+/* #Rounded Corners */
+.rounded {
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	display: block;
+}
+.rounded img { opacity: 0; }

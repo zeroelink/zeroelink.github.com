@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Taken with instagram
+title: Stupid Angry Birds (Taken with Instagram)
 tags: 
 ---
 [![](http://www.tumblr.com/photo/1280/zeroelink/18920507007/1/tumblr_m0jdp51c4

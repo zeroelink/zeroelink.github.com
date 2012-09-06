@@ -1,10 +1,7 @@
 $(document).ready(function() {
-$('img').filter(function() {
-    return  $(this).attr('clientHeight') > 100
-}).addClass("rounded");
-$('img').filter(function() {
-    return  $(this).attr('clientWidth') > 500
-}).attr('width',500);
+$('img').addClass('rounded');
+$('img').attr('width',500);
+
 $('img.rounded').one('load',function () {
 	var img = $(this);
 	var img_width = img.width();

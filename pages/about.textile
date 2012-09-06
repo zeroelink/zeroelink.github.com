@@ -5,7 +5,7 @@ title: About
 
 h1. {{ page.title }}
 
-I believe we live in interesting times.
+I've made a lot of special modifications myself...
 
 I am an Australian expatriate, 10+ year IT professional specializing in VoIP and iOS development living in Honolulu, Hawaii.
 

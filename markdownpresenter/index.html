@@ -7,7 +7,7 @@
   	border:0;
   	padding:0;
   	font-family: helvetica;
-    color: white;
+    color: black;
   }
   div.centered {
   	margin:auto;
@@ -28,7 +28,7 @@
     text-shadow: #000 0 -2px 0;
   }
   .bg {
-    background-image: url(bg.jpg);
+    background-image: url(bg.png);
     position:absolute;
     left:0;
     right:0;
@@ -70,7 +70,7 @@ Present.showSlide = function(slide) {
 };
 Present.nextSlide = function() {
   if (Present.currentSlide < Present.slides.length-1) {
-    Present.showSlide(Present.currentSlide+1);  
+    Present.showSlide(Present.currentSlide+1);
   }
 };
 Present.prevSlide = function() {
@@ -91,11 +91,11 @@ $.ajax({
 });
 
 $(document).keydown(function(e){
-    if (e.keyCode == 37) { 
+    if (e.keyCode == 37) {
        Present.prevSlide();
        return false;
     }
-    if (e.keyCode == 39) { 
+    if (e.keyCode == 39) {
       Present.nextSlide();
       return false;
     }

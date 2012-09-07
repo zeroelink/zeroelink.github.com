@@ -15,7 +15,7 @@ Why should I use it?
 ===
 * It's easy
 * It's flexible
-* Focus on content
+* It's about content
 * It's fast
 
 !

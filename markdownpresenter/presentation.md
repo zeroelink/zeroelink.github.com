@@ -47,7 +47,7 @@ What does it look like?
 
 !
 
-Who uses Markdown?
+Who uses it?
 ===
 * Stackoverflow
 * Github

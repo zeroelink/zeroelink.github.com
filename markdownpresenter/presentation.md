@@ -66,4 +66,20 @@ Tools?
 
 Questions?
 ---
-Any questions?
+[daringfireball.net/projects/markdown/](daringfireball.net/projects/markdown/)
+
+[github.com/schacon/showoff/](http://github.com/schacon/showoff/)
+
+[github.com/coreyti/showdown/](http://github.com/coreyti/showdown/)
+
+[notational.net/](http://notational.net/)
+
+[markedapp.com/](http://markedapp.com/)
+
+[chocolatapp.com/](http://chocolatapp.com/)
+
+[sublimetext.com/2](http://www.sublimetext.com/2)
+
+[martinfantasyfootballchampionbanner](http://zlnk.at/image/0d272e3g1x3K)
+
+

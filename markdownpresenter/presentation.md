@@ -27,7 +27,15 @@ What does it look like?
 `**now it's bold!**`
 
 ####Lists
-Ordered lists use numbers and bulleted lists use *, + or -
+1. Candy     
+2. Gum
+3. Cookies
+
+#####OR  
+
++ Candy 
++ Gum
++ Cookies
 
 ####Heading
 `# h1 ## h2`

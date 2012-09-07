@@ -1,101 +1,65 @@
 Markdown
-==
-
-!
-
-My story
 ===
-* Wasted +1yr on first app
-* First few failed
-* Since then churn out simple ones
-* Been focused a few months maybe?
-* 7 or 8 apps now
 
 !
 
-Sales
+What is it?
 ===
-* Money's kinda useful
-* Average $70/day
-* Soon to be $100 with voda app
-* Thats 36k...
-* I want a boat
+* Plain text formatting syntax
+* A parsing script
+* Created by John Gruber
 
 !
 
-Coding
+Why should I use it?
 ===
-* Obj-C is nice
-* Think of it like a VERY simple layer of OO on top of C
-* Much simpler than C++
-* Like JS with C syntax
+* Easy
+* Flexible
+* Let's you focus on writing
+* Fast
 
 !
 
-Time and Motivation
+What does it look like?
 ===
-* I spend a few hours a week on it
-* Motivated by family/house
-* Dont be scared to give it a go
+####Bold Text
+
+`**now it's bold!**`
+
+####Lists
+Ordered lists use numbers and bulleted lists use *, + or -
+
+####Heading
+`# h1 ## h2`
+
+####Links
+`[text here](url here)`
+
+####Code snippet
+`print 'Hi there...'`
+
+####Image
+![Image](http://f.cl.ly/items/0D1E2m3O0P0v3L2Y2D2e/Screen%20Shot%202012-09-06%20at%209.02.39%20PM.png "Image title") 
 
 !
 
-Support
+Who uses Markdown?
 ===
-* I have my email in most apps
-* Get maybe one a day?
-* Everyone is friendly
-* I gave one refund
+* Stackoverflow
+* Github
+* Reddit
 
 !
 
-Fail forwards
+Tools?
 ===
-* Most apps fail
-* < $5 / week = fail
-* So: Make lots of small apps
-* Build on what works eg usage
-* Remember rovio made 51 apps before angry birds.
+* Most text editors support it (e.g. Sublime Text 2, Chocolat)
+* Notational Velocity
+* Marked
+* ShowOff
 
 !
 
-Ideas
-===
-* Start with crummy ideas. Thats better than nothing.
-* If it's 'obvious' to you, then its probably useful to someone.
-* Execution > ideas anyway.
-
-!
-
-Marketing
-===
-* Tried free for a week - fail (800 -> 0)
-* I have websites for my apps - nothing
-* Tried $2 - nothing, except usage apps
-* Now I just plonk them on at $1 or $2 and leave it
-* Haven't tried adwords
-
-!
-
-Nuts n bolts
-===
-* Reviews take 2 weeks
-* Apple takes 30%
-* GST is 10%
-* Marginal tax will take 37% of what remains
-* Put it in the wife's name!
-* Ads in apps make nothing
-
-!
-
-Ideas
----
-* Pair up, make two apps, one in each name to make revenue split simple
-* Android - never touched. Get in the ground floor on tablets?
-* Scratch your own itch - make a very simple app
-
-!
-
-Whats stopping you?
+Questions?
 ---
 Any questions?

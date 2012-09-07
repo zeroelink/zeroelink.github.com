@@ -37,13 +37,13 @@ What does it look like?
 + Gum
 + Cookies
 
-####Heading
-`# h1 ## h2`
-
 !
 
 What does it look like?
 ===
+####Heading
+`# h1 ## h2`
+
 ####Links
 `[text here](url here)`
 

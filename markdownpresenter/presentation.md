@@ -13,10 +13,10 @@ What is it?
 
 Why should I use it?
 ===
-* Easy
-* Flexible
-* Let's you focus on writing
-* Fast
+* It's easy
+* It's flexible
+* Focus on content
+* It's fast
 
 !
 
